@@ -1,0 +1,16 @@
+body{
+background-color: gray;
+
+}
+
+
+.btn-add{
+
+    border-radius: 100%;
+    width: 60px;
+    height: 60px;
+    position: fixed;
+    left: 100px;
+    bottom: 100px;
+
+}
